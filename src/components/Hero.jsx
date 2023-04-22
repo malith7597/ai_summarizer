@@ -9,7 +9,7 @@ function Hero() {
         <img src={logo} alt="logo" className="w-28 object-contain" />
         <button
           className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded h-15 w-15"
-          onClick={() => window.open("https:/https:github.com/malith7597")}
+          onClick={() => window.open("https://github.com/malith7597")}
         >
           Github
         </button>
